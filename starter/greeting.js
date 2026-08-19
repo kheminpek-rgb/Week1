@@ -5,4 +5,6 @@
 console.log("Hello, Git!");
 console.log("Khemin");
 console.log("hii");
-sayGoodbye()
+function sayGoodbye(){
+    console.log("bye broski");
+}
